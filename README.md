@@ -1,4 +1,6 @@
-# demo2
+# simple_vue_demo
+
+A small project by using Vue with Login/Register/Add/ShowList👩🏻‍💻
 
 ## Project setup
 ```
